@@ -42,7 +42,7 @@ module.exports = "/*!\n * Bootstrap v4.0.0-beta.3 (https://getbootstrap.com)\n *
 /***/ "./node_modules/raw-loader/index.js!./node_modules/postcss-loader/lib/index.js??embedded!./src/styles.css":
 /***/ (function(module, exports) {
 
-module.exports = "/* You can add global styles to this file, and also import other style files */\n"
+module.exports = "/* You can add global styles to this file, and also import other style files */\nbody {\n    padding-top: 80px;\n}\n.template {\n    padding: 3rem 1.5rem;\n    text-align: center;\n}"
 
 /***/ }),
 
